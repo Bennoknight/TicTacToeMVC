@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beene\\source\\repos\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC.csproj": {}
+    "C:\\Users\\beene\\Documents\\GitHub\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beene\\source\\repos\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC.csproj": {
+    "C:\\Users\\beene\\Documents\\GitHub\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beene\\source\\repos\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC.csproj",
+        "projectUniqueName": "C:\\Users\\beene\\Documents\\GitHub\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC.csproj",
         "projectName": "TicTacToeMVC",
-        "projectPath": "C:\\Users\\beene\\source\\repos\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC.csproj",
+        "projectPath": "C:\\Users\\beene\\Documents\\GitHub\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC.csproj",
         "packagesPath": "C:\\Users\\beene\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beene\\source\\repos\\TicTacToeMVC\\TicTacToeMVC\\obj\\",
+        "outputPath": "C:\\Users\\beene\\Documents\\GitHub\\TicTacToeMVC\\TicTacToeMVC\\TicTacToeMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

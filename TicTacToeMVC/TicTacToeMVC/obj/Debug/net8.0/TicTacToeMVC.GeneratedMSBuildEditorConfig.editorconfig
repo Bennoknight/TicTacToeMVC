@@ -9,43 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TicTacToeMVC
 build_property.RootNamespace = TicTacToeMVC
-build_property.ProjectDir = C:\Users\beene\source\repos\TicTacToeMVC\TicTacToeMVC\
+build_property.ProjectDir = C:\Users\beene\Documents\GitHub\TicTacToeMVC\TicTacToeMVC\TicTacToeMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\beene\source\repos\TicTacToeMVC\TicTacToeMVC
+build_property.MSBuildProjectDirectory = C:\Users\beene\Documents\GitHub\TicTacToeMVC\TicTacToeMVC\TicTacToeMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/beene/source/repos/TicTacToeMVC/TicTacToeMVC/Views/HelloWorld/Index.cshtml]
+[C:/Users/beene/Documents/GitHub/TicTacToeMVC/TicTacToeMVC/TicTacToeMVC/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/beene/source/repos/TicTacToeMVC/TicTacToeMVC/Views/Home/Index.cshtml]
+[C:/Users/beene/Documents/GitHub/TicTacToeMVC/TicTacToeMVC/TicTacToeMVC/Views/HelloWorld/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beene/Documents/GitHub/TicTacToeMVC/TicTacToeMVC/TicTacToeMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/beene/source/repos/TicTacToeMVC/TicTacToeMVC/Views/Home/Privacy.cshtml]
+[C:/Users/beene/Documents/GitHub/TicTacToeMVC/TicTacToeMVC/TicTacToeMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/beene/source/repos/TicTacToeMVC/TicTacToeMVC/Views/Shared/Error.cshtml]
+[C:/Users/beene/Documents/GitHub/TicTacToeMVC/TicTacToeMVC/TicTacToeMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/beene/source/repos/TicTacToeMVC/TicTacToeMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/beene/Documents/GitHub/TicTacToeMVC/TicTacToeMVC/TicTacToeMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/beene/source/repos/TicTacToeMVC/TicTacToeMVC/Views/_ViewImports.cshtml]
+[C:/Users/beene/Documents/GitHub/TicTacToeMVC/TicTacToeMVC/TicTacToeMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/beene/source/repos/TicTacToeMVC/TicTacToeMVC/Views/_ViewStart.cshtml]
+[C:/Users/beene/Documents/GitHub/TicTacToeMVC/TicTacToeMVC/TicTacToeMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/beene/source/repos/TicTacToeMVC/TicTacToeMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/beene/Documents/GitHub/TicTacToeMVC/TicTacToeMVC/TicTacToeMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-aw5ztn546r

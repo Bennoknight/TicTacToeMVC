@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using TicTacToeMVC.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<TicTacToeMVCContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("TicTacToeMVCContext") ?? throw new InvalidOperationException("Connection string 'TicTacToeMVCContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

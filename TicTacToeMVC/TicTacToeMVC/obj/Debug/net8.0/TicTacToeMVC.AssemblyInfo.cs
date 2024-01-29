@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TicTacToeMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ef6ffde9fce4526d26767ff7cbbaa853d471858")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9a78a9f37f97f12e0357d3ed0344661eed96708")]
 [assembly: System.Reflection.AssemblyProductAttribute("TicTacToeMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TicTacToeMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
